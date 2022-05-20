@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Victoria Mendoza-Chavez"
 output: 
   html_document:
     number_sections: true
@@ -17,7 +17,7 @@ Here are just a few questions so I can get to know you and so you can get practi
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
 ### my answer     
-  
+I currently attend Antelope Valley High School, and I graduate on June 2, 2022. Comparing both my English and my math class, my English class was easier for me. The subject I did best in was history.
 
      
 
@@ -26,14 +26,14 @@ Where did you attend High School, and did you graduate? Compare english class to
  For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
 
 ### my answer   
-  
+The computer I have is an apple computer. I just got this computer so I'm still trying to figure some things out. On a scale of 1-10 I would rate myself at a 7. My connection to the internet at home is good.
    
 
 ## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
 ### my answer     
-  
+I don't really prefer to be called any other name.
    
  
 
@@ -44,7 +44,7 @@ What name do you prefer to be called by your classmates and instructor, if your 
 What do you want to achieve in life?  What college subject do you think would be of the greatest interest to you? What degree or certificate are you trying to achieve?
 
 ### my answer     
-  
+What I want to achieve in life is that I want to become a Labor and Delivery Nurse. The degree that I'm trying to receive is my BSN, and then then work my way up to being an RN.
    
  
 
@@ -55,7 +55,7 @@ What do you want to achieve in life?  What college subject do you think would be
 Have you ever gone to foreign countries, if so which ones, if not Where might you go in the future?  Have you ever been in the military, if so which branch, if not which branch would you choose if you got drafted, and why?
 
 ### my answer     
-  
+Yes, I have been to Mexico. But I went when I was about four years old, so I don't really remember going. I would want to go to go to the Dominican Republic. I have never been in the military nor would I want to. But if I did get drafted I would probably go to the marines because I've had a lot of marine recruiters come to my school throughout the year and they have talked about so many benefits about being in the marines. 
    
   
 
@@ -65,10 +65,10 @@ Have you ever gone to foreign countries, if so which ones, if not Where might yo
 ## Why are you taking Statistics?  
 Did you take Math 115 or Math 116 ?  Did you know Math 115 only satisfies a general education requirement but that Math 116 counts as taking statistics in several transfer institutions??  
 What grade do you need to attain in stats to not upset your future plans, What is your plan?  
- 
+
 
 ### my answer     
-  
+I am currently taking Math 115, and I didn't know that 115 only satisfies a general education requirement. The grade I need to attain in statistics is at least an A or a B, but nothing lower than a C. My plan is to make sure that I turn in my work and to stay on top of all of my assignments to make sure I attain good grade.
    
  
 
